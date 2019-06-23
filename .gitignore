@@ -140,4 +140,6 @@ dmypy.json
 node_modules/
 jspm_packages/
 
+.idea/
+
 # End of https://www.gitignore.io/api/django

@@ -1,13 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Course List</title>
-</head>
-<body>
+{% extends 'layout/index.html' %}
+{% block title %} Course List {% endblock %}
+
+{% block content %}
     {% for course in courses %}
         <h2>{{ course.title }}</h2>
         {{ course.description }}
     {% endfor %}
-</body>
-</html>
+{% endblock %}
+
+
+

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ea36138-5b3f-4745-9942-6f8bf9235a09" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/learning_site/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_site/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_site/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_site/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learning_site/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="875">
-              <caret line="119" column="34" selection-start-line="119" selection-start-column="34" selection-end-line="119" selection-end-column="34" />
+            <state relative-caret-position="852">
+              <caret line="118" column="16" selection-start-line="118" selection-end-line="118" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -66,6 +66,18 @@
               <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="63" />
               <folding>
                 <element signature="e#24#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learning_site/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+              <folding>
+                <element signature="e#637#669#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,11 +114,11 @@
         <option value="$PROJECT_DIR$/courses/admin.py" />
         <option value="$PROJECT_DIR$/courses/views.py" />
         <option value="$PROJECT_DIR$/learning_site/views.py" />
-        <option value="$PROJECT_DIR$/learning_site/urls.py" />
         <option value="$PROJECT_DIR$/templates/layout/index.html" />
         <option value="$PROJECT_DIR$/templates/home.html" />
         <option value="$PROJECT_DIR$/courses/templates/courses/course_list.html" />
         <option value="$PROJECT_DIR$/learning_site/settings.py" />
+        <option value="$PROJECT_DIR$/learning_site/urls.py" />
       </list>
     </option>
   </component>
@@ -218,12 +230,12 @@
       <workItem from="1561280439188" duration="3185000" />
       <workItem from="1561388351604" duration="1346000" />
       <workItem from="1561391617836" duration="251000" />
-      <workItem from="1561482489643" duration="2322000" />
+      <workItem from="1561482489643" duration="2395000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8785000" />
+    <option name="totallyTimeSpent" value="8858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -330,16 +342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_site/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-          <folding>
-            <element signature="e#637#669#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/layout/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -373,8 +375,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learning_site/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="119" column="34" selection-start-line="119" selection-start-column="34" selection-end-line="119" selection-end-column="34" />
+        <state relative-caret-position="852">
+          <caret line="118" column="16" selection-start-line="118" selection-end-line="118" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_site/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="e#637#669#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

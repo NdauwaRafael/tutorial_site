@@ -13,3 +13,10 @@ class Course(models.Model):
 
     class Meta:
         db_table = "courses"
+
+
+class Step(models.Model):
+    title = models.CharField(max_length=255)
+    description = models.TextField()
+    order = models.IntegerField(default=0)
+    course = models.ForeignKey(Course)
